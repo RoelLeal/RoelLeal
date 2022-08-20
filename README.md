@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hola, mi nombre es Roel, soy programador, ingeniero en sistemas y me encanta todo lo relacionado a tecnología
+## Hi, my name is Roel, i'm programmer, system engineer & i love all to related with technology
 <div align="center">
   <a href="https://github.com/shark11killer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
