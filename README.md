@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ## Hi, my name is Roel, i'm programmer, system engineer & i love all to related with technology
 <div align="center">
   <a href="https://github.com/shark11killer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shark11killer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shark11killer&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shark11killer&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shark11killer&layout=compact&langs_count=7&theme=react"/>
 </div>
 <!-- <div style="display: inline_block"><br>
   <img align="center" alt="Roel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
