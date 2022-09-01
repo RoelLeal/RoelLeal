@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Roel, i'm programmer, system engineer & i love all to related with technology
+## My name is Roel, i'm programmer, system engineer & i love all to related with technology, OPEN TO WORK ;)
 <div align="center">
   <a href="https://github.com/roelleal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roelleal&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
