@@ -5,6 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roelleal&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roelleal&layout=compact&langs_count=7&theme=react"/>
 <div style="display: inline_block" align="center"><br>
+    ## Technologies that I know and I use
   <img align="center" alt="Roel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Roel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Roel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -24,7 +25,7 @@
   <!-- <img align="right" alt="Roel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 </div>
   
-  ## ## Technologies that I know and I use
+
  
 <div style="display: inline_block" align="center"> 
   <a href="https://www.youtube.com/@RoelLealA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
