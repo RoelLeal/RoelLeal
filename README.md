@@ -4,7 +4,7 @@
   <a href="https://github.com/roelleal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roelleal&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roelleal&layout=compact&langs_count=7&theme=react"/>
-</div>
+## Technologies that I know and I use
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Roel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Roel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
