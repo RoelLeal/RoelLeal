@@ -27,7 +27,7 @@
 </div>
   
   ##
- <h3>You can find me at</h3>
+ <h3 style="display: inline_block" align="center">You can find me at</h3>
 <div style="display: inline_block" align="center"> 
   <a href="https://www.youtube.com/@RoelLealA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <!--   <a href="https://instagram.com/roel._.leal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
