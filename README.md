@@ -38,4 +38,4 @@
   <a href="https://www.linktr.ee/roelleal" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
 
 </div> 
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/roeleal/roeleal/output/github-contribution-grid-snake-dark.svg)
