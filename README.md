@@ -36,7 +36,6 @@
   <a href = "mailto:iroeleal11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/roel-leal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.linktr.ee/roelleal" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
-
+  
+![Snake animation](https://raw.githubusercontent.com/roelleal/roelleal/output/github-contribution-grid-snake-dark.svg)
 </div> 
-![Snake animation]
-(https://raw.githubusercontent.com/roelleal/roelleal/output/github-contribution-grid-snake-dark.svg)
