@@ -1,29 +1,69 @@
-### Hi there 👋
-## My name is Roel, I'm programmer, System Engineer, Android <3
 <div align="center">
- <h3 style="display: inline_block">You can find me at</h3>
-<div style="display: inline_block" align="center"> 
-  <a href="https://www.youtube.com/@codewithroel?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<!--   <a href="https://instagram.com/roel._.leal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-<!--  	<a href="https://www.twitch.tv/roellealax" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-<!--  <a href="https://discord.gg/Ne46sSKsnh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-  <a href = "mailto:iroeleal11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/roel-leal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.linktr.ee/roelleal" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
-  
-</div>
-<div style="display: inline-block" align="center"><br>
-  <h3> Programming Languages that I know and use</h3>
-  <img align="center" alt="Roel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="Roel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Roel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Roel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Roel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Roel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Roel-Vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Roel-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
-  <img align="center" alt="Roel-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+
+<!-- Título con efecto de escritura -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Roel;System+Engineer+%26+Mobile+Developer;Android+Enthusiast+%3C3&center=true&width=500&height=50&color=38B2AC&vCenter=true&size=22">
+</a>
+
+<h3 align="center">🚀 Transforming ideas into code, one commit at a time.</h3>
+
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/roelleal/roelleal/output/github-contribution-grid-snake-dark.svg)
-</div> 
+---
+
+### 👨‍💻 About Me
+
+- 📱 I’m a **System Engineer** & **Programmer** with a huge passion for **Android Development**.
+- 🔭 I’m currently working on building awesome mobile and web applications.
+- 🌱 I’m constantly learning and exploring new technologies.
+- 💬 Ask me about **Android, Kotlin, React Native, or C#**.
+- 📫 Reach me at: [iroeleal11@gmail.com](mailto:iroeleal11@gmail.com)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <!-- Generador de iconos unificados y estéticos -->
+    <img src="https://skillicons.dev/icons?i=android,kotlin,java,cs,cpp,js,ts,react,flutter&perline=9" alt="My Skills" />
+  </a>
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <!-- Tarjetas de estadísticas de GitHub automáticas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=roelleal&show_icons=true&theme=tokyonight&hide_border=true" alt="Roel's GitHub stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roelleal&theme=tokyonight&hide_border=true" alt="Roel's GitHub Streak" height="150" />
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <!-- Tu animación de la serpiente -->
+  <img src="https://raw.githubusercontent.com/roelleal/roelleal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 📫 Connect with me
+
+<div align="center">
+  <a href="https://www.youtube.com/@codewithroel?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:iroeleal11@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/roel-leal" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.linktr.ee/roelleal" target="_blank">
+    <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
+</div>
