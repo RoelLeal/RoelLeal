@@ -12,7 +12,7 @@
   <a href="https://www.linktr.ee/roelleal" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
   
 </div>
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline-block" align="center"><br>
   <h3> Programming Languages that I know and use</h3>
   <img align="center" alt="Roel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Roel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -23,7 +23,6 @@
   <img align="center" alt="Roel-Vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Roel-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
   <img align="center" alt="Roel-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/roelleal/roelleal/output/github-contribution-grid-snake-dark.svg)
