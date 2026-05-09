@@ -32,11 +32,11 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 GitHub Trophies & Streak
 
 <div align="center">
-  <!-- Tarjetas de estadísticas de GitHub automáticas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=roelleal&show_icons=true&theme=tokyonight&hide_border=true" alt="Roel's GitHub stats" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=roelleal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roelleal&theme=tokyonight&hide_border=true" alt="Roel's GitHub Streak" height="150" />
 </div>
 
