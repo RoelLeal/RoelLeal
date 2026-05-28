@@ -32,10 +32,9 @@
 
 ---
 
-### 🏆 GitHub Trophies & Streak
+### 🏆 GitHub Streak
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roelleal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roelleal&theme=tokyonight&hide_border=true" alt="Roel's GitHub Streak" height="150" />
 </div>
