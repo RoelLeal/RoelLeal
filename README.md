@@ -26,7 +26,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <!-- Generador de iconos unificados y estéticos -->
-    <img src="https://skillicons.dev/icons?i=android,kotlin,java,cs,cpp,js,ts,react,flutter&perline=9" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=android,kotlin,java,cpp,js,ts,react,flutter,swift&perline=9" alt="My Skills" />
   </a>
 </div>
 
